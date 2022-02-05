@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>My todos</h1>
-      <Todo />
+      <Todo title='todo' />
     </>
   )
 }
